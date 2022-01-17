@@ -77,6 +77,32 @@
         "styled components"
       ],
       "description": "Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had. more junk text that no one will read. just need to fill the box"
+    },
+      {
+      "title": "[4] build a spotify connected app",
+      "postDate": "8 Aug 21",
+      "professional": "false",
+      "img": "projectimage.png",
+      "stack": [
+        "react",
+        "express",
+        "spotify Api",
+        "styled components"
+      ],
+      "description": "Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had. more junk text that no one will read. just need to fill the box"
+    },
+    {
+      "title": "[5] build a spotify connected app",
+      "postDate": "8 Aug 21",
+      "professional": "true",
+      "img": "projectimage.png",
+      "stack": [
+        "react",
+        "express",
+        "spotify Api",
+        "styled components"
+      ],
+      "description": "Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had. more junk text that no one will read. just need to fill the box"
     }
   ]
 }
